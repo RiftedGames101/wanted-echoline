@@ -1,0 +1,23 @@
+{
+  "name": "Wanted: Echoline",
+  "short_name": "Echoline",
+  "description": "A story-driven pixel-art action platformer by Rifted Games.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#160b16",
+  "theme_color": "#160b16",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
